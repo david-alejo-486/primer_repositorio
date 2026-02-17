@@ -7,4 +7,9 @@ git config user.email
 clear
 git status
 git add .
-git commit-m "Listo para subir"
+git commit -m "Listo para subir"
+git commit -m "Segundo commit"
+git remote add origin https://github.com/david-alejo-486/primer_repositorio.git
+primer_repositorio.git
+git push -u origin master
+git push -u origin main
